@@ -1,5 +1,8 @@
-### Hi, I'm Lorenzo! 👋
+Hi, I'm Lorenzo! 👋 
 
-<!--
-  - 🤖 Machine Learning Engineer in Research at [Henesis](https://henesis.eu/)
--->
+Some stuff about me:
+ - 🤖 Machine Learning Engineer in Research
+ - 💪 Weighted Calisthenics
+ - 🛹 Skateboarding
+ - 🐧 (Arch) Linux user
+
