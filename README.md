@@ -1,11 +1,10 @@
 # Hello there! 👋 I'm Lorenzo
 
-I'm a Machine Learning Engineer passionate about the intersection of research and applied science.  
+I'm a Machine Learning Engineer passionate about the intersection of research and real-world applications.  
 Here's a little bit more about me:
 
-- 🤖 I am deeply enthusiastic about Machine Learning.
+- 🤖 I love Machine Learning (Math ∩ Computer Science ∩ Statistics).
 - 🧙 I'm on my journey to becoming an open sourcerer.
 - 💪 I enjoy pushing my physical limits with Weighted Calisthenics.
-- 🐧 I'm an avid user and advocate for (Arch) Linux.
-- 📝 Vim is my go-to text editor.
-
+- 🐧 I use Arch, BTW.
+- 📝 I can't stop Vim.
